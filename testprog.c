@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
-printf("Test, Program!\n");
+printf("NoTest, Program!\n");
 return 0;
 }
+
