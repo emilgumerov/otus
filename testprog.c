@@ -1,8 +1,12 @@
 #include <stdio.h>
+#include <stdlib.h>
+
 
 int main() {
-    printf("hey you!\n");
-    printf("that is the test Program! 7 commit\n");
+    //printf("hey you!\n");
+    printf("list of files\n");
+    system("ls -la");
+    system("pwd");
 return 0;
 }
 
